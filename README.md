@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @f-ouaryachi
 - 👀 I’m interested in many things
-- 🌱 I’m currently learning to program
-- 💞️ I’m looking to collaborate on learning to brogram
+- 🌱 I’m currently learning to python
+- 💞️ I’m looking to collaborate on learning about data analysis
 - 📫 How to reach me f.ouaryachi@gmail.com
 
 <!---
